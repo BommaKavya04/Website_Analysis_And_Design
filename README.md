@@ -4,7 +4,7 @@ Conducting a website analysis of a company and designing a sample website.
 
 
 # Design using Wix : 
-https://kavyasri93.wixsite.com/apple-1/contact-us
+Link : https://kavyasri93.wixsite.com/apple-1/contact-us
 
 ![Screenshot 2024-09-11 195630](https://github.com/user-attachments/assets/b1be4c6b-96c7-47f5-9737-9a95ef483144)
 
